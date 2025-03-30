@@ -5,7 +5,12 @@ import java.util.Map;
 public class Question2 {
 
 
-
+    /**
+     *
+     * Change string s and wordDict for suitable our test.
+     *
+     * @param args
+     */
     public static void main(String[] args) {
         var s = "leetcode";
         var wordDict = new String[] {"leet", "code"};
